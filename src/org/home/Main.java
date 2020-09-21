@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Cherry pick commit");//коммит чери пик
         System.out.println("dev3 branch");//ветка dev3
         System.out.println("5th commit in branch dev2");//коммит в ветке dev2//
+        System.out.println("ветка  task1");//ветка таск1
     }
 }
