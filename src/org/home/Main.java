@@ -1,5 +1,7 @@
 package org.home;
 
+import javax.sound.midi.Soundbank;
+
 public class Main {
     public static void main(String[] args) {
 
@@ -11,5 +13,6 @@ public class Main {
         System.out.println("dev3 branch");//ветка dev3
         System.out.println("5th commit in branch dev2");//коммит в ветке dev2//
         System.out.println("ветка  task1");//ветка таск1
+        System.out.println("test cherry pick из task");
     }
 }
